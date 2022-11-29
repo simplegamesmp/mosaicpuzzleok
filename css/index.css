@@ -2,11 +2,12 @@ body{
 
     padding :0;
     margin :0;
-    background-color:black;
     position: absolute;
     top: 0;
     left: 0;
     overflow: auto;
+    background: url(/assets/img/bg_index.jpg) no-repeat;
+    background-position: center;
 }
 html, body {
     height: 100%;
